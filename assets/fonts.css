@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'murillobit-title';
+    src: url('murillobit-title.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'murillobit-main';
+    font-style: normal;
+    font-weight: 300 800;
+    font-display: swap;
+    src: url('murillobit-main.woff2') format('woff2');
+}
